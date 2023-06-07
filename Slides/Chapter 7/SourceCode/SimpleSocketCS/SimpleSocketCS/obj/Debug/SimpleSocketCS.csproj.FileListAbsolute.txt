@@ -1,0 +1,5 @@
+C:\Users\aolim\Desktop\SimpleSocketCS\SimpleSocketCS\bin\Debug\SimpleSocketCS.exe
+C:\Users\aolim\Desktop\SimpleSocketCS\SimpleSocketCS\bin\Debug\SimpleSocketCS.pdb
+C:\Users\aolim\Desktop\SimpleSocketCS\SimpleSocketCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aolim\Desktop\SimpleSocketCS\SimpleSocketCS\obj\Debug\SimpleSocketCS.exe
+C:\Users\aolim\Desktop\SimpleSocketCS\SimpleSocketCS\obj\Debug\SimpleSocketCS.pdb
